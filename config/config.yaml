@@ -1,0 +1,9 @@
+SECRET_KEY : ''
+PASS : ''
+DATABASE : ''
+JWT_SECRET_KEY : ''
+PORT : ''
+USER : ''
+NEO4J_USER : ''
+NEO4J_PASS : ""
+NEO4J_PORT : ""
